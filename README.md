@@ -1,31 +1,36 @@
-### Readings 
 
-
-Podcasts
+### Podcasts
 
 All in Podcasts
 War Economy
 Blood Money - Inside the Nazi Economy
 
-Magazines:
+#### Magazines:
 
 Economist
 
-Books:
+### Books:
 
-Captial
-Why Nations Fail: The Origins of Power, Prosperity, and Poverty
-The Wealth and Poverty of Nations: Why Some Are So Rich and Some So Poor
-Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail
-The End of the World is Just the Beginning https://fs.blog/charlie-munger-recommended-books/
-Courses
-Evaluating Upward Mobility: The Fading American Dream
-Case Studies
-Singapore
-Germany
-Japan
-California
-Articles:
+- Captial
+- Why Nations Fail: The Origins of Power, Prosperity, and Poverty
+- The Wealth and Poverty of Nations: Why Some Are So Rich and Some So Poor
+- Principles for Dealing with the Changing World Order: Why Nations Succeed or Fail
+- The End of the World is Just the Beginning https://fs.blog/charlie-munger-recommended-books/
+- Evaluating Upward Mobility: The Fading American Dream
+
+
+### Courses
+
+
+#### Case Studies
+
+-  Singapore
+- Germany
+ -Japan
+ - California
+
+
+###  Articles:
 Fed Discount Window https://www.washingtonpost.com/business/2023/03/17/what-is-the-fed-discount-window-why-are-banks-using-it-so-much/f7c07198-c4de-11ed-82a7-6a87555c1878_story.html
 https://www.theringer.com/2023/3/15/23641138/silicon-valley-bank-debacle-the-biggest-myths-the-out-of-control-blame-game-and-the-worst-takes
 
